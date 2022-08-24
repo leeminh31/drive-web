@@ -1,7 +1,7 @@
 {
   "name": "drive-web",
   "version": "0.1.0",
-  "homepage": "https://leeminh31.github.com/drive_web",
+  "homepage": "https://leeminh31.github.io/drive_web_ui",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
